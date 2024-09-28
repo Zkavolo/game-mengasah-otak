@@ -30,8 +30,7 @@ Point system :<br>
 Right letter : +10<br>
 Wrong letter : -2<br>
 No answer    : -2<br>
-#### example :
-<br>
+#### example :<br>
 ![alt text](./images/image-7.png)
 Right answer is jendela<br>
 ![alt text](./images/image-8.png)
